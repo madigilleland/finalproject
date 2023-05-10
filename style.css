@@ -1,0 +1,70 @@
+
+body {
+	background-color: rgba(241, 255, 228, 0.8);}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-size: 200%; 
+	margin-bottom: 75px;
+	margin-top: 75px;}
+
+h2 { 
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 400%; }
+
+h3 {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	color: black;
+	margin-top: 50px;
+}
+
+iframe {
+		margin-top: 50px;
+}
+
+p, li {
+	font-family: 'Raleway', sans-serif;
+	color: black;}
+
+
+
+.description {
+		font-family: 'Raleway', sans-serif;
+		color: black;
+		text-align: center;}
+
+.nav-tabs .nav-link {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	color: black;
+	border-color: black;
+	margin-bottom: 75px;
+	margin-top: 75px;}
+
+img {
+	border-radius: 50%;
+	display: block;
+	width: 100%;
+}
+
+.btn { 
+		background-color: white;
+		color: black;
+		border-color: black;
+		text-transform: uppercase;
+		font-family: sans-serif;
+		margin-bottom: 100px;
+		margin-top: 50px;
+		}
+
+#carouselExampleIndicators {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 100px;}
+		
+
